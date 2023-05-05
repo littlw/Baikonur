@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Baikonur/static/css/main.11145095.css",
-    "main.js": "/Baikonur/static/js/main.eed77d7f.js",
+    "main.js": "/Baikonur/static/js/main.210666c8.js",
     "static/media/SEGA.woff": "/Baikonur/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/Baikonur/index.html",
     "main.11145095.css.map": "/Baikonur/static/css/main.11145095.css.map",
-    "main.eed77d7f.js.map": "/Baikonur/static/js/main.eed77d7f.js.map"
+    "main.210666c8.js.map": "/Baikonur/static/js/main.210666c8.js.map"
   },
   "entrypoints": [
     "static/css/main.11145095.css",
-    "static/js/main.eed77d7f.js"
+    "static/js/main.210666c8.js"
   ]
 }
